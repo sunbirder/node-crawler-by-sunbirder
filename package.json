@@ -1,6 +1,6 @@
 {
   "name": "crawler-by-sunbirder",
-  "version": "1.2.0",
+  "version": "0.0.1",
   "description": "Crawler Second-system effect,the second development",
   "main": "./lib/crawler.js",
   "directories": {
